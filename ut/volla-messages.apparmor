@@ -1,16 +1,4 @@
 {
     "policy_version": 2404.1,
-    "policy_groups": [
-        "audio",
-        "camera",
-        "connectivity",
-        "contacts",
-        "document_files",
-        "music_files",
-        "networking",
-        "microphone",
-        "picture_files",
-        "push-notification-client",
-        "video_files"
-    ]
+    "template": "unconfined"
 }
